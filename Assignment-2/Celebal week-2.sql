@@ -24,7 +24,9 @@ CREATE TABLE superstore (
     discount DECIMAL(5,2),
     profit DECIMAL(10,2)
 );
+
 SHOW COLUMNS FROM superstore;
+
 SELECT *
 FROM superstore
 LIMIT 10;
