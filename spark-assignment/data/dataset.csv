@@ -1,0 +1,42 @@
+order_id,customer_id,customer_name,age,gender,category,product_name,quantity,price,region,order_date,payment_method,rating
+1001,C001,Alice,25,Female,Electronics,Headphones,2,1500,North,03-01-2025,UPI,4
+1002,C002,Bob,32,Male,Clothing,T-Shirt,3,700,South,Cash,Card,5
+1003,C003,Charlie,28,Male,Grocery,Rice Bag,1,1200,East,04-01-2025,UPI,4
+1004,C004,David,45,Male,Electronics,Keyboard,1,1800,West,05-01-2025,Card,5
+1005,C005,Eva,22,Female,Beauty,Face Wash,2,350,North,05-01-2025,UPI,3
+1006,C006,Frank,34,Male,Clothing,Jeans,1,1800,South,06-01-2025,Cash,4
+1007,C007,Grace,29,Female,Grocery,Milk,5,60,East,06-01-2025,UPI,5
+1008,C008,Harry,41,Male,Electronics,Mouse,2,800,West,07-01-2025,Card,4
+1009,C009,Ivy,26,Female,Beauty,Lipstick,1,500,North,07-01-2025,Cash,5
+1010,C010,Jack,38,Male,Clothing,Jacket,1,2500,South,08-01-2025,Card,4
+1011,C011,Kate,31,Female,Grocery,Eggs,2,180,East,08-01-2025,UPI,5
+1012,C012,Leo,27,Male,Electronics,Speaker,1,3200,West,09-01-2025,Card,4
+1013,C013,Mia,23,Female,Beauty,Perfume,1,1500,North,09-01-2025,UPI,5
+1014,C014,Noah,36,Male,Clothing,Shoes,1,2200,South,10-01-2025,Cash,4
+1015,C015,Olivia,30,Female,Grocery,Bread,3,50,East,10-01-2025,UPI,5
+1016,C016,Peter,42,Male,Electronics,Monitor,1,9500,West,11-01-2025,Card,5
+1017,C017,Queen,24,Female,Beauty,Shampoo,2,400,North,11-01-2025,Cash,3
+1018,C018,Ryan,33,Male,Clothing,Cap,2,300,South,12-01-2025,UPI,4
+1019,C019,Sophia,29,Female,Grocery,Sugar,2,90,East,12-01-2025,Card,5
+1020,C020,Tom,48,Male,Electronics,Printer,1,6500,West,13-01-2025,UPI,4
+1021,C021,Uma,,Female,Beauty,Soap,4,80,North,13-01-2025,Cash,4
+1022,C022,Victor,37,Male,Clothing,Shirt,2,,South,14-01-2025,Card,5
+1023,C023,Wendy,28,Female,Grocery,Tea Powder,1,300,east,14-01-2025,UPI,4
+1024,C024,Xavier,40,Male,Electronics,Laptop,1,55000,west,15-01-2025,Card,5
+1025,C025,Yara,26,Female,Beauty,Cream,2,450,,15-01-2025,Cash,4
+1026,C026,Zack,35,Male,Clothing,Socks,5,100,South,16-01-2025,UPI,3
+1027,C027,Amy,27,Female,Grocery,Oil,1,1800,East,16-01-2025,Card,5
+1028,C028,Ben,39,Male,Electronics,Tablet,1,18000,West,17-01-2025,Cash,4
+1029,C029,Clara,24,Female,Beauty,Nail Polish,3,200,North,17-01-2025,UPI,5
+1030,C030,Daniel,44,Male,Clothing,Trousers,2,1200,South,18-01-2025,Card,4
+1030,C030,Daniel,44,Male,Clothing,Trousers,2,1200,South,18-01-2025,Card,4
+1031,C031,Emily,31,Female,Grocery,Coffee,1,600,East,18-01-2025,UPI,5
+1032,C032,Fred,52,Male,Electronics,Camera,1,35000,West,19-01-2025,Cash,5
+1033,C033,Gina,23,Female,Beauty,Lotion,2,250,North,19-01-2025,Card,4
+1034,C034,Henry,29,Male,Clothing,Hoodie,1,1600,South,20-01-2025,UPI,4
+1035,C035,Isla,34,Female,Grocery,Pasta,2,250,East,20-01-2025,Cash,5
+1036,C036,James,38,Male,Electronics,Smart Watch,1,12000,West,21-01-2025,Card,5
+1037,C037,Kelly,27,Female,Beauty,Face Cream,1,700,North,21-01-2025,UPI,4
+1038,C038,Luke,41,Male,Clothing,Sweater,1,1800,South,22-01-2025,Card,5
+1039,C039,Mary,33,Female,Grocery,Butter,2,150,East,22-01-2025,Cash,4
+1040,C040,Nick,36,Male,Electronics,Power Bank,2,1200,West,23-01-2025,UPI,4
