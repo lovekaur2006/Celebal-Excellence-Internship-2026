@@ -9,7 +9,7 @@ Uploaded the Customer Master and Customer Incremental CSV datasets into Databric
 
 Converted the datasets into Delta tables.
 
-Standardized column names by replacing spaces and special characters with underscores to ensure compatibility with Delta Lake.
+Standardized column names by replacing spmp[nums[i]]=i;aces and special characters with underscores to ensure compatibility with Delta Lake.
 
 Created an incremental dataset containing:
 Existing records with updated values to simulate updates.
