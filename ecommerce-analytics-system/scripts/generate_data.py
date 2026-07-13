@@ -76,8 +76,6 @@ def generate_customers():
         index=False
     )
 
-    print("customers.csv generated successfully.")
-
 
 # Generate Products
 
@@ -190,8 +188,6 @@ def generate_products():
         index=False
     )
 
-    print("products.csv generated successfully.")
-
 
 # Generate Orders
 
@@ -264,8 +260,6 @@ def generate_orders():
         "data/raw/orders.csv",
         index=False
     )
-
-    print("orders.csv generated successfully.")
 
 # Order items
 # -----------------------------
@@ -342,11 +336,8 @@ def generate_order_items():
         index=False
     )
 
-    print("order_items.csv generated successfully.")
 
 def main():
-
-    print("=" * 50)
 
     generate_customers()
 
@@ -356,9 +347,7 @@ def main():
     
     generate_order_items()
 
-    print("=" * 50)
-    print("Milestone 2 Completed Successfully")
-    print("=" * 50)
+
 
 
 if __name__ == "__main__":
